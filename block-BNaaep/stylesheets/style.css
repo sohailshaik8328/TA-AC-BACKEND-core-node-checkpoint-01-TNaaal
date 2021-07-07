@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+img {
+    box-shadow: 2px 2px 6px rgba(128, 128, 128,rgba(128, 128, 128, 0.248)88), -2px -2px 6x gray;
+}
+.data {
+    font-size: 2rem;
+    color: red;
+}
